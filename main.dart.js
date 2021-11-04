@@ -62491,7 +62491,7 @@ return T.it(H.b([L.eP("Experience",A.cA(s,s,new P.C(4282728539),s,s,s,s,s,r,s,s,
 SC:function(){var s=this.f,r=H.ag(s).j("ay<1,k*>")
 return T.it(P.as(new H.ay(s,new Y.a3b(this),r),!0,r.j("b0.E")),C.aF,C.ai,C.az)},
 Cz:function(a){var s=null,r=Z.adT(),q=this.Cv(a),p=this.CC(),o=A.cA(s,s,new P.C(4286939548),s,s,s,s,s,"ProductSans",s,s,10,s,s,s,1.5,!0,s,1,s,s,s,s,s),n=t.d
-return T.it(H.b([r,new T.eE(new V.ba(12,12,12,12),T.Fb(H.b([new T.fv(C.lh,s,s,q,s),new T.fv(C.eG,s,s,p,s),new T.fv(C.eG,s,s,L.eP("Email: kwaqas4095@gmail.com\nSkype:kwaqas4095\nCell # +923350330506",o.xw(a.Z(t.w).f.a.a<768?8:10),s,s),s)],n),C.aF,C.jw,C.az),s)],n),C.aF,C.ai,C.az)},
+return T.it(H.b([r,new T.eE(new V.ba(12,12,12,12),T.Fb(H.b([new T.fv(C.lh,s,s,q,s),new T.fv(C.eG,s,s,p,s),new T.fv(C.eG,s,s,L.eP("Email: kwaqas4095@gmail.com\nSkype: kwaqas4095\nCell # +923350330506",o.xw(a.Z(t.w).f.a.a<768?8:10),s,s),s)],n),C.aF,C.jw,C.az),s)],n),C.aF,C.ai,C.az)},
 Cv:function(a){var s=null,r=A.cA(s,s,new P.C(4286939548),s,s,s,s,s,"ProductSans",s,s,10,s,s,s,1.5,!0,s,1,s,s,s,s,s)
 return L.eP("\xa9 2021. ALL RIGHTS RESERVED.",r.xw(a.Z(t.w).f.a.a<768?8:10),s,s)},
 CC:function(){var s=null
